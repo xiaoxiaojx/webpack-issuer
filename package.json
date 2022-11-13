@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "name": "webpack-oneof-bug",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "css-loader": "^6.7.2",
+    "style-loader": "^3.3.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
