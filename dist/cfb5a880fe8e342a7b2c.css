@@ -1,8 +1,0 @@
-// Imports
-import ___CSS_LOADER_API_NO_SOURCEMAP_IMPORT___ from "../node_modules/_css-loader@6.7.2@css-loader/dist/runtime/noSourceMaps.js";
-import ___CSS_LOADER_API_IMPORT___ from "../node_modules/_css-loader@6.7.2@css-loader/dist/runtime/api.js";
-var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(___CSS_LOADER_API_NO_SOURCEMAP_IMPORT___);
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, "body {\n    color: red;\n}", ""]);
-// Exports
-export default ___CSS_LOADER_EXPORT___;

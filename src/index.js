@@ -1,2 +1,3 @@
-require("./index.css")
+import "./test"
 
+console.error('test')
