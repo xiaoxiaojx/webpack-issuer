@@ -1,3 +1,3 @@
 import "./test"
 
-console.error('test')
+console.error('index.js')
